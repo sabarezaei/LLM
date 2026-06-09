@@ -1,0 +1,9 @@
+*.csv
+*.safetensors
+*.pt
+*.log
+wandb/
+Gemma-2-2b-it/
+data/
+.env/
+.vscode/
